@@ -14,13 +14,17 @@ public class day_night : MonoBehaviour
     }
     void Update()
     {
+        Debug.Log("rotation x" + transform.rotation.eulerAngles.x);
+
         transform.Rotate(new Vector3(-3 * Time.deltaTime, 0, 0), Space.World);
-        if (transform.rotation.x < -10 && transform.rotation.x > -170)
+        if (transform.rotation.eulerAngles.x > 284.813)
         {
             RenderSettings.skybox = night;
+            Debug.Log("night");
         }
         else{
             RenderSettings.skybox = day;
+            Debug.Log("day");
         }
     }
 }
