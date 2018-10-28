@@ -21,10 +21,12 @@ public class day_night : MonoBehaviour
         {
             RenderSettings.skybox = night;
             Debug.Log("night");
+            gameObject.SetActive(false);
         }
         else{
             RenderSettings.skybox = day;
             Debug.Log("day");
+            gameObject.SetActive(true);
         }
     }
 }
