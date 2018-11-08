@@ -402,10 +402,10 @@ MonoBehaviour:
     height: 466
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 447}
+    scrollPos: {x: 0, y: 303}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: a636f9ffa2fcfcffe6fbffff00000000dc190000
+    m_ExpandedIDs: 285cfffff6d4ffff00000000984b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -455,14 +455,14 @@ MonoBehaviour:
     height: 466
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 3437.5485810041428
+  lastFramingTime: 1358.6807880401611
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -19.066856, y: -538.9095, z: -19.221088}
+    m_Target: {x: -164.84921, y: -25.69773, z: 277.33936}
     speed: 2
-    m_Value: {x: -19.066856, y: -538.9095, z: -19.221088}
+    m_Value: {x: -164.84921, y: -25.69773, z: 277.33936}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -490,13 +490,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.0265728, y: -0.8603212, z: 0.5070584, w: -0.045091063}
+    m_Target: {x: -0.027363082, y: 0.7132074, z: -0.027881976, w: -0.6998636}
     speed: 2
-    m_Value: {x: -0.0265728, y: -0.8603212, z: 0.5070584, w: -0.045091063}
+    m_Value: {x: -0.027363082, y: 0.7132074, z: -0.027881976, w: -0.6998636}
   m_Size:
-    m_Target: 790.69666
+    m_Target: 50.149994
     speed: 2
-    m_Value: 790.69666
+    m_Value: 50.149994
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -576,14 +576,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/UCode/Downloads/fanmade_fortnitemap
+  m_LastProjectPath: /Users/ucode/Downloads/fanmade_fortnitemap
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8a0a0000
-    m_LastClickedID: 2698
-    m_ExpandedIDs: 000000008a0a0000960a0000ca0a0000d80a00009e0b0000dc0b0000200c00002e0c0000560c00005c0c0000c20c0000440d00006e0d00002c0e0000860e00009e0e0000a20e0000a80e0000ac0f000030100000bc100000da100000ae110000b8110000bc110000321200005212000000ca9a3b
+    m_SelectedIDs: 5c380000
+    m_LastClickedID: 14428
+    m_ExpandedIDs: 000000005c3800006838000092380000a0380000363900006839000098390000a2390000bc390000be390000fc390000623a0000803a0000003b00004c3b00005e3b0000623b0000663b0000263c0000963c0000f83c00000e3d0000a23d0000a83d0000ac3d0000fa3d0000123e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ba73ffff
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a0a0000960a0000ca0a0000d80a00009e0b0000dc0b0000200c00002e0c0000560c00005c0c0000c20c0000440d00006e0d00002c0e0000860e00009e0e0000a20e0000a80e0000ac0f000030100000bc100000da100000ae110000b8110000bc1100003212000052120000
+    m_ExpandedIDs: 000000005c3800006838000092380000a0380000363900006839000098390000a2390000bc390000be390000fc390000623a0000803a0000003b00004c3b00005e3b0000623b0000663b0000263c0000963c0000f83c00000e3d0000a23d0000a83d0000ac3d0000fa3d0000123e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
